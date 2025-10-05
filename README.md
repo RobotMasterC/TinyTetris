@@ -2,6 +2,11 @@
 
 A small console that plays Tetris that is powered by an Attiny85
 
+## Demo
+[Wokwi Simulation](https://wokwi.com/projects/443390022396922881)
+*This will run faster than the actual hardware* 
+
+
 ## BOM
 - 1x Attiny85-20u
 - 1x 128x32 I2C screen
