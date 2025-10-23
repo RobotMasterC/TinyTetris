@@ -18,17 +18,21 @@ A small console that plays Tetris that is powered by an Attiny85
 
 ## Images
 - PCB Schematic
-<img width="450" height="170" alt="image" src="https://github.com/user-attachments/assets/03a6493e-0dad-4d50-8838-112fd606ba8a" />
+<img width="450" height="170" alt="image" src="https://github.com/user-attachments/assets/ad6eb92d-9225-4f1c-b921-635cafd91f05" />
+
 
 
 - PCB Overall
-<img width="305" height="420" alt="image" src="https://github.com/user-attachments/assets/7b067d2f-2f75-442e-9319-ba1bae2ab664" />
+<img width="305" height="420" alt="image" src="https://github.com/user-attachments/assets/0e74f1f6-fc61-4b7d-948f-0d7c011dc972" />
+
 
 
 - PCB Front
-<img width="305" height="400" alt="image" src="https://github.com/user-attachments/assets/2c838851-1540-49a2-988e-2344de44fc23" />
+<img width="305" height="400" alt="image" src="https://github.com/user-attachments/assets/af6bd349-8768-4ac6-989e-51751b0bc01f" />
+
 
 - PCB Back
-<img width="305" height="400" alt="image" src="https://github.com/user-attachments/assets/211d2c37-1b9c-46b6-a249-f5ba8d6e8c9b" />
+<img width="305" height="400" alt="image" src="https://github.com/user-attachments/assets/09c31dda-196f-49ef-9bdc-6f98c3fb1822" />
+
 
 
